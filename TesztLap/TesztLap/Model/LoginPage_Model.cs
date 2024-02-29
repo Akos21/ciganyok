@@ -10,7 +10,6 @@ namespace TesztLap.Model
 {
     public class LoginPage_Model
     {
-        Database db;
         public List<Felhasznalo> felh = new List<Felhasznalo>();
         public Felhasznalo User = null;
 

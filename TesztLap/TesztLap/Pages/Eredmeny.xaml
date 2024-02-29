@@ -18,7 +18,7 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <Image Grid.Column="1" Source="../placeholder.png" Height="200" Width="500"/>
+        <Image Grid.Column="1" Source="../Resources/placeholder.png" Height="200" Width="500"/>
         <TextBlock Grid.Column="2" Margin="20,40,20,0">
             <Span><Run x:Name="teljesitett"></Run></Span>
             /
