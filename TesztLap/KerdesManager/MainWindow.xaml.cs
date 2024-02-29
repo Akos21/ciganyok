@@ -121,6 +121,7 @@ namespace KerdesManager
                 json.AddKerdes(kerdes, valaszok, helyes);
             }
             json.WriteJson();
+            MessageBox.Show($"Sikeres generálás a következő úton:\n{System.IO.Path.Combine(System.Environment.CurrentDirectory, json.path)}");
         }
     }
 }

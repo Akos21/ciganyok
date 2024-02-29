@@ -20,7 +20,7 @@ namespace TesztLap.Data
             CreateFile();
             _connection = CreateConnection();
             SetupTable();
-            AddRow("Akos", "alma123", 5f);
+            //AddRow("Akos", "alma123", 5f);
         }
 
         private void CreateFile()

@@ -24,7 +24,7 @@ namespace KerdesManager
 
     public class Json
     {
-        string path = "Kerdesek.json";
+        public string path = "Kerdesek.json";
 
         public List<KvizKerdesek> kvizkerdesek = new List<KvizKerdesek>();
 
