@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\tesztlap\\kerdesmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|solutionrelative:kerdesmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\tesztlap\\kerdesmanager\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|solutionrelative:kerdesmanager\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\tesztlap\\kerdesmanager\\kerdescontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|solutionrelative:kerdesmanager\\kerdescontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\tesztlap\\kerdesmanager\\kerdescontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|solutionrelative:kerdesmanager\\kerdescontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\tesztlap\\kerdesmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|solutionrelative:kerdesmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Json.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\Json.cs",
+              "RelativeDocumentMoniker": "KerdesManager\\Json.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\Json.cs",
+              "RelativeToolTip": "KerdesManager\\Json.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T22:00:53.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KerdesControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\KerdesControl.xaml.cs",
+              "RelativeDocumentMoniker": "KerdesManager\\KerdesControl.xaml.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\KerdesControl.xaml.cs",
+              "RelativeToolTip": "KerdesManager\\KerdesControl.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T21:42:20.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KerdesControl.xaml",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\KerdesControl.xaml",
+              "RelativeDocumentMoniker": "KerdesManager\\KerdesControl.xaml",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\KerdesControl.xaml",
+              "RelativeToolTip": "KerdesManager\\KerdesControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-29T21:08:21.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KerdesManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\MainWindow.xaml",
+              "RelativeToolTip": "KerdesManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-29T21:06:46.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KerdesManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\TesztLap\\KerdesManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KerdesManager\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T21:06:45.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2024-02-27T12:12:35.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="BVP5gvNPqW1Df8Csjy8t" version="23.1.5" type="device">
+  <diagram name="Page-1" id="E4MS3hRZulyTGoS9u9fE">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="760" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-16" value="Username" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="45" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-17" value="Max pontszám: &lt;font style=&quot;background-color: rgb(153, 153, 153);&quot; color=&quot;#999999&quot;&gt;X&lt;/font&gt;%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="45" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="140" width="390" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-19" value="Kérdés" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=6" parent="1" vertex="1">
+          <mxGeometry x="395" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-21" value="Válasz 1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#999999;labelBackgroundColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="230" y="350" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-22" value="&lt;font style=&quot;background-color: rgb(153, 153, 153);&quot; color=&quot;#999999&quot;&gt;Válasz 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="350" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-23" value="Válasz 3" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#999999;labelBackgroundColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="230" y="390" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-24" value="Válasz 4" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#999999;labelBackgroundColor=#999999;" parent="1" vertex="1">
+          <mxGeometry x="450" y="390" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZsHXfUt3pOsQtf5Unxh-25" value="Beküldés" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="450" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0GFcz-mcyuJmZatDrVw-1" value="&lt;span style=&quot;background-color: rgb(153, 153, 153);&quot;&gt;&lt;font color=&quot;#999999&quot;&gt;Teljesített&lt;/font&gt;&lt;/span&gt;/&lt;span style=&quot;background-color: rgb(153, 153, 153);&quot;&gt;&lt;font color=&quot;#999999&quot;&gt;Összes&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KhqRguQSSnDIx61GPsZ4-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(153, 153, 153);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KhqRguQSSnDIx61GPsZ4-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ZsHXfUt3pOsQtf5Unxh-18" target="1ZsHXfUt3pOsQtf5Unxh-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KhqRguQSSnDIx61GPsZ4-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ZsHXfUt3pOsQtf5Unxh-18" target="1ZsHXfUt3pOsQtf5Unxh-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="150" as="sourcePoint" />
+            <mxPoint x="630" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
