@@ -1,17 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace KerdesManager
 {
@@ -44,7 +33,7 @@ namespace KerdesManager
         private void RemoveElem(KerdesControl cont)
         {
             Kerdesek.Children.Remove(cont);
-            RefreshKNums() ;
+            RefreshKNums();
         }
         private void AddElem()
         {
@@ -63,10 +52,10 @@ namespace KerdesManager
 
         private void RefreshKNums()
         {
-            for(int i = 0; i <  Kerdesek.Children.Count; i++)
+            for (int i = 0; i < Kerdesek.Children.Count; i++)
             {
                 ((KerdesControl)Kerdesek.Children[i]).UpdateNum(i + 1);
-                if(i == 0)
+                if (i == 0)
                 {
                     ((KerdesControl)Kerdesek.Children[i]).Remove.IsEnabled = false;
                 }
@@ -79,20 +68,20 @@ namespace KerdesManager
 
         private bool CheckGenerate()
         {
-            foreach(var item in Kerdesek.Children)
+            foreach (var item in Kerdesek.Children)
             {
                 KerdesControl cnt = (KerdesControl)item;
-                if(cnt.Helyes == 0)
+                if (cnt.Helyes == 0)
                 {
                     MessageBox.Show($"Hiba az {cnt.kNum.Content} kérdésnél: Jelöld ki a helyes választ!");
                     return false;
                 }
-                if(cnt.Kerdes.Text.Length == 0)
+                if (cnt.Kerdes.Text.Length == 0)
                 {
                     MessageBox.Show($"Hiba az {cnt.kNum.Content} kérdésnél: Nem írtál kérdést!");
                     return false;
                 }
-                for(int i = 0; i < cnt.Valaszok.Count; i++)
+                for (int i = 0; i < cnt.Valaszok.Count; i++)
                 {
                     if (cnt.Valaszok[i].Text.Length == 0)
                     {
@@ -111,7 +100,7 @@ namespace KerdesManager
                 return;
             }
             Json json = new Json();
-            foreach(var item in Kerdesek.Children)
+            foreach (var item in Kerdesek.Children)
             {
                 KerdesControl cnt = (KerdesControl)item;
                 string kerdes = cnt.KerdesBox.Text;

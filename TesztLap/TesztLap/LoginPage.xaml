@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:TesztLap"
         mc:Ignorable="d"
         WindowStartupLocation="CenterOwner"
-        Title="Login" Height="200" Width="350">
+        Title="Bejelentkezés" Height="200" Width="350">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
@@ -18,10 +18,10 @@
             <ColumnDefinition/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Label Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" Content="Login"/>
-        <Label Grid.Row="1" Content="Username" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" FontSize="16" Margin="0,0,5,0"/>
+        <Label Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontWeight="Bold" Content="Bejelentkezés"/>
+        <Label Grid.Row="1" Content="Felhasználónév" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" FontSize="16" Margin="0,0,5,0"/>
         <TextBox x:Name="userName" Grid.Row="1" Grid.Column="1" Width="120" Height="20" HorizontalAlignment="Left" Margin="5,0,0,0"/>
-        <Label Grid.Row="2" Content="Password" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" FontSize="16" Margin="0,0,5,0"/>
+        <Label Grid.Row="2" Content="Jelszó" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" FontSize="16" Margin="0,0,5,0"/>
         <PasswordBox x:Name="password" Grid.Row="2" Grid.Column="1" Width="120" Height="20" HorizontalAlignment="Left" Margin="5,0,0,0" PasswordChar="*"/>
         <Button x:Name="loginBtn" IsDefault="True" Grid.ColumnSpan="2" Grid.Row="3" Content="Login" VerticalAlignment="Center" HorizontalAlignment="Center" Width="140" Height="26"/>
     </Grid>

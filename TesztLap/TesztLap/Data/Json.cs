@@ -1,11 +1,7 @@
-﻿using System;
+﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
-using System.Text;
-using System.Threading.Tasks;
-using Newtonsoft.Json;
 using TesztLap.Model;
 
 namespace TesztLap.Data
@@ -37,7 +33,7 @@ namespace TesztLap.Data
 
         public List<KvizKerdes> LoadJson()
         {
-            List<KvizKerdes> Kerdesek = new List<KvizKerdes> ();
+            List<KvizKerdes> Kerdesek = new List<KvizKerdes>();
             List<KvizKerdesJson> _kerdesIn = new List<KvizKerdesJson>();
 
             using (StreamReader sr = new StreamReader(path))
@@ -48,7 +44,7 @@ namespace TesztLap.Data
 
             int num = 1;
 
-            foreach(var k in _kerdesIn)
+            foreach (var k in _kerdesIn)
             {
                 Kerdesek.Add(
                     new KvizKerdes(k.kerdes, num, k.valaszok.ToList(), k.Helyes - 1)

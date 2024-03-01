@@ -1,10 +1,6 @@
 ﻿using Newtonsoft.Json;
-using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace KerdesManager
 {
@@ -44,7 +40,7 @@ namespace KerdesManager
                 File.WriteAllText(path, "");
             }
         }
-        
+
         public void AddKerdes(string kerdes, List<string> valaszok, int helyes)
         {
             kvizkerdesek.Add(new KvizKerdesek(kerdes, valaszok, helyes));
@@ -52,9 +48,9 @@ namespace KerdesManager
 
         public void WriteJson()
         {
-            using(StreamWriter sw = new StreamWriter(path))
+            using (StreamWriter sw = new StreamWriter(path))
             {
-                foreach(KvizKerdesek kerdes in kvizkerdesek)
+                foreach (KvizKerdesek kerdes in kvizkerdesek)
                 {
                     var json = JsonConvert.SerializeObject(kerdes);
                     sw.WriteLine(json);

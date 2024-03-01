@@ -1,17 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
+﻿using System.Collections.Generic;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace KerdesManager
 {
@@ -32,7 +20,7 @@ namespace KerdesManager
 
             Kerdes = KerdesBox;
 
-            
+
             Valaszok.Add(Valasz1);
             Valaszok.Add(Valasz2);
             Valaszok.Add(Valasz3);
@@ -43,13 +31,13 @@ namespace KerdesManager
             Helyesek.Add(Helyes3);
             Helyesek.Add(Helyes4);
 
-            foreach(RadioButton radio in Helyesek)
+            foreach (RadioButton radio in Helyesek)
             {
                 radio.Click += (s, e) =>
                 {
                     if (radio.IsChecked.Value)
                     {
-                        for(int i = 0; i <Helyesek.Count; i++)
+                        for (int i = 0; i < Helyesek.Count; i++)
                         {
                             if (Helyesek[i] != radio)
                             {

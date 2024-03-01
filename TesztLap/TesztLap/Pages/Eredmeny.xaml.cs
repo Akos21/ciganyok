@@ -1,17 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace TesztLap.Pages
 {
@@ -30,12 +19,12 @@ namespace TesztLap.Pages
             osszes.Text = all.ToString();
 
 
-            if(all > 0)
+            if (all > 0)
             {
                 double szazalek = Math.Round((float)sikeres / all, 4) * 100;
                 percentage.Text = szazalek.ToString();
                 Szazalek = szazalek;
-                if(szazalek >= Passing)
+                if (szazalek >= Passing)
                 {
                     eredmeny.Text = "Sikeres!";
                     eredmeny.Background = Brushes.Lime;

@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using TesztLap.Data;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Runtime.CompilerServices;
 
 namespace TesztLap.Model
 {
@@ -20,9 +15,9 @@ namespace TesztLap.Model
 
         public bool CheckUser(string username, string password)
         {
-            if(felh.Where(x => x.Username == username).Count() > 0)
+            if (felh.Where(x => x.Username == username).Count() > 0)
             {
-                if(felh.Where(x => x.Username == username).First().Password == password)
+                if (felh.Where(x => x.Username == username).First().Password == password)
                 {
                     AssignValue(username);
                     return true;
@@ -43,7 +38,7 @@ namespace TesztLap.Model
             }
             return false;
         }
-        
+
         public void AssignValue(string username)
         {
             User = felh.Where(x => x.Username == username).First();

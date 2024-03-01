@@ -1,18 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Automation.Peers;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using TesztLap.Data;
 using TesztLap.Model;
 using TesztLap.Pages;
@@ -24,15 +15,15 @@ namespace TesztLap
     /// </summary>
     public partial class MainWindow : Window
     {
-        Database db = new Database();
+        private Database db = new Database();
         private bool LoggedIn = false;
         private List<Kerdes> KerdesPages = new List<Kerdes>();
         public int step = 0;
         private int sikeres = 0;
         private int all = 3;
         private bool Answered = false;
-        private int delay = 1500;
-        Felhasznalo User = null;
+        private readonly int delay = 2000;
+        private Felhasznalo User = null;
 
         public MainWindow()
         {
@@ -40,9 +31,9 @@ namespace TesztLap
 
             Json jsonData = new Json();
             List<KvizKerdes> Kerdesek = jsonData.LoadJson();
-            all = Kerdesek.Count;
+            this.all = Kerdesek.Count;
 
-            foreach(KvizKerdes kerdes in Kerdesek)
+            foreach (KvizKerdes kerdes in Kerdesek)
             {
                 KerdesPages.Add(new Kerdes(kerdes, all));
             }
@@ -96,7 +87,7 @@ namespace TesztLap
 
         private async void SwitchFrame()
         {
-            if(step > 0 && step <= all)
+            if (step > 0 && step <= all)
             {
                 if (KerdesPages[step - 1].Helyes)
                 {
@@ -129,7 +120,7 @@ namespace TesztLap
                 };
 
                 frame.Navigate(eredmenyPage);
-                if(Convert.ToDouble(percent.Content) < eredmenyPage.Szazalek)
+                if (Convert.ToDouble(percent.Content) < eredmenyPage.Szazalek)
                 {
                     percent.Content = eredmenyPage.Szazalek.ToString();
                     User.Eredmeny = eredmenyPage.Szazalek;
@@ -145,11 +136,11 @@ namespace TesztLap
             sikeres = 0;
             Random rnd = new Random(Guid.NewGuid().GetHashCode());
             KerdesPages = KerdesPages.OrderBy(x => rnd.Next()).ToList();
-            foreach(var page in KerdesPages)
+            foreach (var page in KerdesPages)
             {
                 page.InitializePage();
             }
-            for(int i = 0; i < KerdesPages.Count; i++)
+            for (int i = 0; i < KerdesPages.Count; i++)
             {
                 KerdesPages[i].kvizKerdes.KerdesNum = i + 1;
             }

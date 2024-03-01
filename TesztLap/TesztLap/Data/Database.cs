@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data.SQLite;
 using System.IO;
 using TesztLap.Model;
@@ -39,7 +36,7 @@ namespace TesztLap.Data
             {
                 connection.Open();
             }
-            catch (Exception ex) 
+            catch (Exception ex)
             {
                 using (StreamWriter sw = new StreamWriter("../../Data/errors.txt"))
                 {

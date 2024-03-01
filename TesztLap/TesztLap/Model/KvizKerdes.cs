@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TesztLap.Model
 {
@@ -10,14 +7,14 @@ namespace TesztLap.Model
     {
         public string Kerdes { get; set; }
         public int KerdesNum { get; set; }
-        public List<Valasz> Valaszok { get;set; }
+        public List<Valasz> Valaszok { get; set; }
 
-        public KvizKerdes(string kerdes, int num, List<string> valaszok, int helyes) 
+        public KvizKerdes(string kerdes, int num, List<string> valaszok, int helyes)
         {
             Kerdes = kerdes;
             KerdesNum = num;
             Valaszok = new List<Valasz>();
-            for(int i = 0; i < valaszok.Count; i++)
+            for (int i = 0; i < valaszok.Count; i++)
             {
                 Valaszok.Add(new Valasz(valaszok[i], helyes == i));
             }
@@ -28,9 +25,9 @@ namespace TesztLap.Model
         {
             Random rnd = new Random(Guid.NewGuid().GetHashCode());
 
-            for(int i = 0; i < 4; i++)
+            for (int i = 0; i < 4; i++)
             {
-                for(int j = 0; j < Valaszok.Count; j++)
+                for (int j = 0; j < Valaszok.Count; j++)
                 {
                     int temp = rnd.Next(0, Valaszok.Count - 1);
                     Valasz temp2 = Valaszok[j];
