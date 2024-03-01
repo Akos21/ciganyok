@@ -29,7 +29,7 @@
             <!--Ha valaha több tesztet is hozzá akarnánk adni-->
             <Border x:Name="teszt1" BorderThickness="3" Style="{StaticResource ResourceKey=testHover}" Margin="20, 40, 20,20" Padding="10">
                 <StackPanel VerticalAlignment="Top" Orientation="Vertical">
-                    <Image Height="230" Width="230" Source="/placeholder.png"/>
+                    <Image Height="230" Width="230" Source="../Resources/placeholder.png"/>
                     <Label FontSize="24" HorizontalAlignment="Center" Content="Teszt 1"/>
                 </StackPanel>
             </Border>

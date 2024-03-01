@@ -39,7 +39,7 @@ namespace TesztLap
             InitializeComponent();
 
             Json jsonData = new Json();
-            List<KvizKerdes> Kerdesek = new List<KvizKerdes>();
+            List<KvizKerdes> Kerdesek = jsonData.LoadJson();
             all = Kerdesek.Count;
 
             foreach(KvizKerdes kerdes in Kerdesek)
@@ -132,6 +132,7 @@ namespace TesztLap
                 if(Convert.ToDouble(percent.Content) < eredmenyPage.Szazalek)
                 {
                     percent.Content = eredmenyPage.Szazalek.ToString();
+                    User.Eredmeny = eredmenyPage.Szazalek;
                     db.EditEredmeny(User.Username, User.Eredmeny);
                 }
             }
@@ -142,7 +143,7 @@ namespace TesztLap
         {
             step = 0;
             sikeres = 0;
-            Random rnd = new Random();
+            Random rnd = new Random(Guid.NewGuid().GetHashCode());
             KerdesPages = KerdesPages.OrderBy(x => rnd.Next()).ToList();
             foreach(var page in KerdesPages)
             {

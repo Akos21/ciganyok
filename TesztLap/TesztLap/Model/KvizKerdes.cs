@@ -21,11 +21,12 @@ namespace TesztLap.Model
             {
                 Valaszok.Add(new Valasz(valaszok[i], helyes == i));
             }
+            Shuffle();
         }
 
         public void Shuffle()
         {
-            Random rnd = new Random();
+            Random rnd = new Random(Guid.NewGuid().GetHashCode());
 
             for(int i = 0; i < 4; i++)
             {

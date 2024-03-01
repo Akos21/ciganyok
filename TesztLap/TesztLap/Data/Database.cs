@@ -20,7 +20,7 @@ namespace TesztLap.Data
             CreateFile();
             _connection = CreateConnection();
             SetupTable();
-            //AddRow("Akos", "alma123", 5f);
+            //AddRow("Akos", "alma123", 0f);
         }
 
         private void CreateFile()
@@ -94,14 +94,14 @@ namespace TesztLap.Data
 
         public void EditEredmeny(string username, double eredmeny)
         {
-            string txt = $"UPDATE users SET eredmeny = {eredmeny} WHERE username = {username};";
+            string txt = $"UPDATE users SET eredmeny = {eredmeny} WHERE username = '{username}';";
             SQLiteCommand cmd = new SQLiteCommand(txt, _connection);
             cmd.ExecuteNonQuery();
         }
 
         public void DeleteRow(string user)
         {
-            string txt = $"DELETE FROM users WHERE username = {user};";
+            string txt = $"DELETE FROM users WHERE username = '{user}';";
             SQLiteCommand cmd = new SQLiteCommand(txt, _connection);
             cmd.ExecuteNonQuery();
         }
