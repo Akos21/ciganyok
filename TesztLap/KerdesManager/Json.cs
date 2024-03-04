@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 
 namespace KerdesManager
 {
@@ -22,7 +23,7 @@ namespace KerdesManager
     {
         public string path = "Kerdesek.json";
 
-        public List<KvizKerdesek> kvizkerdesek = new List<KvizKerdesek>();
+        public static List<KvizKerdesek> kvizkerdesek = new List<KvizKerdesek>();
 
         public Json()
         {
@@ -50,11 +51,12 @@ namespace KerdesManager
         {
             using (StreamWriter sw = new StreamWriter(path))
             {
-                foreach (KvizKerdesek kerdes in kvizkerdesek)
-                {
-                    var json = JsonConvert.SerializeObject(kerdes);
-                    sw.WriteLine(json);
-                }
+                sw.WriteLine("[");
+
+                var tempKerd = kvizkerdesek.Select(x => JsonConvert.SerializeObject(x)).ToList();
+
+                sw.WriteLine(string.Join(",\n", tempKerd));
+                sw.WriteLine("]");
             }
         }
     }
