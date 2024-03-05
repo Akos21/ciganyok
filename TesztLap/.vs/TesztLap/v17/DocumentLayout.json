@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\ciganyok\\tesztlap\\kerdesmanager\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|solutionrelative:kerdesmanager\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\tesztlap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|solutionrelative:tesztlap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\ciganyok\\tesztlap\\tesztlap\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\tesztlap\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|solutionrelative:tesztlap\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|solutionrelative:tesztlap\\pages\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\ciganyok\\tesztlap\\tesztlap\\pages\\kerdes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\tesztlap\\pages\\kerdes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|solutionrelative:tesztlap\\pages\\kerdes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,11 +31,11 @@
       "RelativeMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|solutionrelative:tesztlap\\pages\\kerdes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\ciganyok\\tesztlap\\tesztlap\\pages\\eredmeny.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\tesztlap\\pages\\eredmeny.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|solutionrelative:tesztlap\\pages\\eredmeny.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\ciganyok\\tesztlap\\tesztlap\\model\\valasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\tesztlap\\model\\valasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|solutionrelative:tesztlap\\model\\valasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,7 +43,7 @@
       "RelativeMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|solutionrelative:tesztlap\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|c:\\users\\okvik\\documents\\prog_projects\\c#\\feladatok\\ciganyok\\tesztlap\\tesztlap\\loginpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\tesztlap\\loginpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|solutionrelative:tesztlap\\loginpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\kerdesmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|solutionrelative:kerdesmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\kerdesmanager\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E070487-2DD7-4EA5-A244-6CC87740F0AC}|KerdesManager\\KerdesManager.csproj|solutionrelative:kerdesmanager\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3138802-2BC8-49AC-BF8D-A2273BFFE24F}|TesztLap\\TesztLap.csproj|C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\tesztlap\\model\\loginpage_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StartPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Pages\\StartPage.xaml.cs",
               "RelativeDocumentMoniker": "TesztLap\\Pages\\StartPage.xaml.cs",
@@ -94,12 +94,11 @@
               "RelativeToolTip": "TesztLap\\Pages\\StartPage.xaml.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:11:57.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T12:11:57.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Kerdes.xaml.cs",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Pages\\Kerdes.xaml.cs",
               "RelativeDocumentMoniker": "TesztLap\\Pages\\Kerdes.xaml.cs",
@@ -107,12 +106,11 @@
               "RelativeToolTip": "TesztLap\\Pages\\Kerdes.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:11:38.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T12:11:38.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Valasz.cs",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Model\\Valasz.cs",
               "RelativeDocumentMoniker": "TesztLap\\Model\\Valasz.cs",
@@ -120,12 +118,11 @@
               "RelativeToolTip": "TesztLap\\Model\\Valasz.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:09:32.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T12:09:32.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\LoginPage.xaml",
               "RelativeDocumentMoniker": "TesztLap\\LoginPage.xaml",
@@ -133,12 +130,11 @@
               "RelativeToolTip": "TesztLap\\LoginPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-01T12:08:00.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T12:08:00.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Eredmeny.xaml.cs",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Pages\\Eredmeny.xaml.cs",
               "RelativeDocumentMoniker": "TesztLap\\Pages\\Eredmeny.xaml.cs",
@@ -146,12 +142,11 @@
               "RelativeToolTip": "TesztLap\\Pages\\Eredmeny.xaml.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T07:21:20.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T07:21:20.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "KvizKerdes.cs",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Model\\KvizKerdes.cs",
               "RelativeDocumentMoniker": "TesztLap\\Model\\KvizKerdes.cs",
@@ -159,25 +154,23 @@
               "RelativeToolTip": "TesztLap\\Model\\KvizKerdes.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T07:20:21.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T07:20:21.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TesztLap\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\MainWindow.xaml.cs",
               "RelativeToolTip": "TesztLap\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAlwBoAAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAlwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T07:06:19.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T07:06:19.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Data\\Database.cs",
               "RelativeDocumentMoniker": "TesztLap\\Data\\Database.cs",
@@ -185,12 +178,11 @@
               "RelativeToolTip": "TesztLap\\Data\\Database.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAlwBUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T23:17:42.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T23:17:42.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\KerdesManager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "KerdesManager\\MainWindow.xaml",
@@ -201,39 +193,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Eredmeny.xaml",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Pages\\Eredmeny.xaml",
               "RelativeDocumentMoniker": "TesztLap\\Pages\\Eredmeny.xaml",
               "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Pages\\Eredmeny.xaml",
               "RelativeToolTip": "TesztLap\\Pages\\Eredmeny.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-02-29T23:11:35.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T23:11:35.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StartPage.xaml",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Pages\\StartPage.xaml",
               "RelativeDocumentMoniker": "TesztLap\\Pages\\StartPage.xaml",
               "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Pages\\StartPage.xaml",
               "RelativeToolTip": "TesztLap\\Pages\\StartPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-02-29T23:57:38.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T23:57:38.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Kerdes.xaml",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Pages\\Kerdes.xaml",
               "RelativeDocumentMoniker": "TesztLap\\Pages\\Kerdes.xaml",
               "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\Pages\\Kerdes.xaml",
               "RelativeToolTip": "TesztLap\\Pages\\Kerdes.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-02-29T23:09:36.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T23:09:36.425Z"
             },
             {
               "$type": "Document",
@@ -245,24 +234,22 @@
               "RelativeToolTip": "TesztLap\\Model\\LoginPage_Model.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T23:11:57.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T23:11:57.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TesztLap\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\TesztLap\\MainWindow.xaml",
               "RelativeToolTip": "TesztLap\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-02-29T23:09:23.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T23:09:23.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\KerdesManager\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "KerdesManager\\MainWindow.xaml.cs",
@@ -270,18 +257,17 @@
               "RelativeToolTip": "KerdesManager\\MainWindow.xaml.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAAAG4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T21:06:45.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T21:06:45.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "Json.cs",
               "DocumentMoniker": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\KerdesManager\\Json.cs",
               "RelativeDocumentMoniker": "KerdesManager\\Json.cs",
               "ToolTip": "C:\\Users\\okvik\\Documents\\Prog_Projects\\C#\\Feladatok\\ciganyok\\TesztLap\\KerdesManager\\Json.cs",
               "RelativeToolTip": "KerdesManager\\Json.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAPAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T22:00:53.218Z",
               "EditorCaption": ""
@@ -307,8 +293,7 @@
               "RelativeToolTip": "KerdesManager\\KerdesControl.xaml.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T21:42:20.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T21:42:20.441Z"
             }
           ]
         }
