@@ -63,10 +63,10 @@ namespace TesztLap.Pages
         {
             qNum.Text = kvizKerdes.KerdesNum.ToString();
             kerdes.Text = kvizKerdes.Kerdes;
-            answer1.Content = kvizKerdes.Valaszok[0].Szoveg;
-            answer2.Content = kvizKerdes.Valaszok[1].Szoveg;
-            answer3.Content = kvizKerdes.Valaszok[2].Szoveg;
-            answer4.Content = kvizKerdes.Valaszok[3].Szoveg;
+            answer1_txt.Text = kvizKerdes.Valaszok[0].Szoveg;
+            answer2_txt.Text = kvizKerdes.Valaszok[1].Szoveg;
+            answer3_txt.Text = kvizKerdes.Valaszok[2].Szoveg;
+            answer4_txt.Text = kvizKerdes.Valaszok[3].Szoveg;
 
             teljesitett.Text = kvizKerdes.KerdesNum.ToString();
             osszes.Text = all.ToString();

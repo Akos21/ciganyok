@@ -5,7 +5,7 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:TesztLap.Pages"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="500" d:DesignWidth="800"
       Title="Kerdes">
 
     <Grid>
@@ -15,8 +15,8 @@
             <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
-            <RowDefinition/>
-            <RowDefinition/>
+            <RowDefinition Height="9*"/>
+            <RowDefinition Height="10*"/>
         </Grid.RowDefinitions>
         <Image Grid.Column="1" Source="../Resources/placeholder.png" Height="200" Width="500"/>
         <TextBlock HorizontalAlignment="Center" Grid.Column="2" Margin="20,40,20,0" FontSize="20">
@@ -25,7 +25,7 @@
             <Span><Run x:Name="osszes"></Run></Span>
         </TextBlock>
         <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <TextBlock FontSize="20">
+            <TextBlock FontSize="20" TextWrapping="Wrap" Margin="0,0,0,20">
                 <Span>
                     <Run x:Name="qNum"/>
                 </Span>.
@@ -35,12 +35,20 @@
                 </Span>
             </TextBlock>
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-                <Button x:Name="answer1" Content="Válasz 1" Width="170" Height="24" Margin="20"/>
-                <Button x:Name="answer2" Content="Válasz 2" Width="170" Height="24" Margin="20"/>
+                <Button x:Name="answer1" FontSize="12" Width="240" Height="48" Margin="0, 0, 20, 10">
+                    <TextBlock x:Name="answer1_txt" Text="Válasz 1" TextWrapping="Wrap"/>
+                </Button>
+                <Button x:Name="answer2" FontSize="12" Width="240" Height="48" Margin="20, 0, 0, 10">
+                    <TextBlock x:Name="answer2_txt" Text="Válasz 2" TextWrapping="Wrap"/>
+                </Button>
             </StackPanel>
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-                <Button x:Name="answer3" Content="Válasz 3" Width="170" Height="24" Margin="20"/>
-                <Button x:Name="answer4" Content="Válasz 4" Width="170" Height="24" Margin="20"/>
+                <Button x:Name="answer3" FontSize="12" Width="240" Height="48" Margin="0, 20, 20, 0">
+                    <TextBlock x:Name="answer3_txt" Text="Válasz 3" TextWrapping="Wrap"/>
+                </Button>
+                <Button x:Name="answer4" FontSize="12" Width="240" Height="48" Margin="20, 20, 0, 0">
+                    <TextBlock x:Name="answer4_txt" Text="Válasz 4" TextWrapping="Wrap"/>
+                </Button>
             </StackPanel>
         </StackPanel>
     </Grid>
