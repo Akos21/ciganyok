@@ -72,3 +72,40 @@ C:\Users\okvik\Documents\Prog_Projects\C#\Feladatok\ciganyok\TesztLap\TesztLap\o
 C:\Users\okvik\Documents\Prog_Projects\C#\Feladatok\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.csproj.Up2Date
 C:\Users\okvik\Documents\Prog_Projects\C#\Feladatok\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.exe
 C:\Users\okvik\Documents\Prog_Projects\C#\Feladatok\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.pdb
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\x86\sqlite3.dll
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\x64\sqlite3.dll
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\TesztLap.exe.config
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\TesztLap.exe
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\TesztLap.pdb
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\EntityFramework.dll
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\System.Data.SQLite.dll
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\EntityFramework.xml
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\bin\Debug\System.Data.SQLite.xml
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.csproj.AssemblyReference.cache
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\LoginPage.g.cs
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\MainWindow.g.cs
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\Pages\Eredmeny.g.cs
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\Pages\Kerdes.g.cs
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\Pages\StartPage.g.cs
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\App.g.cs
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap_Content.g.cs
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap_MarkupCompile.cache
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap_MarkupCompile.lref
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\LoginPage.baml
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\MainWindow.baml
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\Pages\Eredmeny.baml
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\Pages\Kerdes.baml
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\Pages\StartPage.baml
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.g.resources
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.Properties.Resources.resources
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.csproj.GenerateResource.cache
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.csproj.CoreCompileInputs.cache
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.csproj.CopyComplete
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.exe
+C:\Users\varosi.bendeguz\Desktop\nah, Id'win\ciganyok\TesztLap\TesztLap\obj\Debug\TesztLap.pdb
