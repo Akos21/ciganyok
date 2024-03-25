@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Controls;
 using System.Windows.Media;
+using System.Windows.Media.Imaging;
 
 namespace TesztLap.Pages
 {
@@ -28,11 +29,14 @@ namespace TesztLap.Pages
                 {
                     eredmeny.Text = "Sikeres!";
                     eredmeny.Background = Brushes.Lime;
+
+                    eredmeny_kep.Source = new BitmapImage(new System.Uri("../Resources/Pictures/win.jpg", System.UriKind.Relative));
                 }
                 else
                 {
                     eredmeny.Text = "Sikertelen";
                     eredmeny.Background = Brushes.Red;
+                    eredmeny_kep.Source = new BitmapImage(new System.Uri("../Resources/Pictures/vereseg.jpg", System.UriKind.Relative));
                 }
             }
             else

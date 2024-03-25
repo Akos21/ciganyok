@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Windows.Controls;
 using System.Windows.Media;
+using System.Windows.Media.Imaging;
 using TesztLap.Model;
 
 namespace TesztLap.Pages
@@ -57,6 +58,7 @@ namespace TesztLap.Pages
             {
                 btn.Background = Brushes.LightGray;
             }
+            kerdes_kep.Source = new BitmapImage(new System.Uri("../Resources/Pictures/me.jpg", System.UriKind.Relative));
         }
 
         public void InitTxt()

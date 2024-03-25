@@ -1,5 +1,8 @@
 [
-{"kerdes":"Mi az az osztály?","valaszok":["a) Egy szöveges változó","b) Egy függvény összessége","c) Egy adatszerkezet, amely tartalmazza az objektumok tulajdonságait és viselkedését","d) Egy matematikai egyenlet"],"Helyes":3},
+{"kerdes":"Mi az az osztály?",
+	"valaszok":
+["a) Egy szöveges változó","b) Egy függvény összessége","c) Egy adatszerkezet, amely tartalmazza az objektumok tulajdonságait és viselkedését","d) Egy matematikai egyenlet"],
+"Helyes":3},
 {"kerdes":"Mire szolgál az öröklődés az objektum orientált programozásban?","valaszok":["a) Az adatok tömörítésére","b) Az objektumok kölcsönös kapcsolatának kialakítására","c) Az objektumok közötti kódújrafelhasználásra","d) Az objektumok élettartamának meghatározására"],"Helyes":3},
 {"kerdes":"Mit jelent a polimorfizmus az objektum orientált programozásban?","valaszok":["a) Az objektumok széles körű tulajdonságait","b) Az objektumok általános alakját","c) Az objektumok különböző formában való viselkedését","d) Az objektumok öröklődési kapcsolatait"],"Helyes":3},
 {"kerdes":"Milyen célból használjuk az interfészeket az objektum orientált programozásban?","valaszok":["a) Az öröklődés megszorítására","b) Az objektumok titkosítására","c) Az adatbázisok kommunikációjának megkönnyítésére","d) Az objektumok módosíthatóságának korlátozására"],"Helyes":1},

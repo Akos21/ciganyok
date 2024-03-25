@@ -156,6 +156,15 @@
   <ItemGroup>
     <Resource Include="Resources\placeholder.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pages\kep.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Pictures\kep.jpeg" />
+    <Resource Include="Resources\Pictures\me.jpg" />
+    <Resource Include="Resources\Pictures\vereseg.jpg" />
+    <Resource Include="Resources\Pictures\win.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
